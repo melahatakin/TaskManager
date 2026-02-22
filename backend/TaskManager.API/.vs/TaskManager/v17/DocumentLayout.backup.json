@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\application\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:application\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\domain\\enums\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:domain\\enums\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|c:\\users\\melo\\desktop\\taskmanager\\backend\\taskmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BC354D5-3B69-4EEE-B6A8-9F5DBCA2CC7A}|TaskManager.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\DTOs\\TaskItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TaskItemDto.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\DTOs\\TaskItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\TaskItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:34:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\DTOs\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\DTOs\\CreateTaskDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:34:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:30:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "Application\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:09:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:04:13.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:26:23.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:06:18.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:21:38.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Domain\\Enums\\TaskItemStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TaskItemStatus.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Domain\\Enums\\TaskItemStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\TaskItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:25:35.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\TaskManager\\backend\\TaskManager.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T17:12:23.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
