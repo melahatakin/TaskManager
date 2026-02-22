@@ -3,7 +3,7 @@ import axios from "axios";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
 
-const API_URL = "http://localhost:5077/api/tasks";
+const API_URL = "http://localhost:./api/tasks";
 
 function App() {
   const [tasks, setTasks] = useState([]);
